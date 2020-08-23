@@ -51,7 +51,7 @@ class Installer_Wizard {
 		// Extensions required for UTF-8 functions
 		'pcre',
 		'iconv',
-		'mbstring',
+		//'mbstring',
 		
 		// Database access
 		'mysqli',
@@ -63,10 +63,10 @@ class Installer_Wizard {
 		//'imap',
 		
 		// GD library for imaging
-		'gd',
+		//'gd',
 		
 		// Encryption
-		'mcrypt',
+		//'mcrypt',
 		
 		// Misc
 		'spl'
